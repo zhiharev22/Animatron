@@ -1,0 +1,5 @@
+{
+  "name": "Аниматрон",
+  "description": "Upload a photo, provide a prompt, and use the Veo model to generate a captivating video animation. Bring your static images to life with light animation.",
+  "requestFramePermissions": []
+}
